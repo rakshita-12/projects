@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rakshita-12/projects.git/static/css/main.fcdd971f.css",
+    "main.js": "/rakshita-12/projects.git/static/js/main.8c42f49e.js",
+    "static/js/453.c10d28cd.chunk.js": "/rakshita-12/projects.git/static/js/453.c10d28cd.chunk.js",
+    "index.html": "/rakshita-12/projects.git/index.html",
+    "main.fcdd971f.css.map": "/rakshita-12/projects.git/static/css/main.fcdd971f.css.map",
+    "main.8c42f49e.js.map": "/rakshita-12/projects.git/static/js/main.8c42f49e.js.map",
+    "453.c10d28cd.chunk.js.map": "/rakshita-12/projects.git/static/js/453.c10d28cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcdd971f.css",
+    "static/js/main.8c42f49e.js"
+  ]
+}
